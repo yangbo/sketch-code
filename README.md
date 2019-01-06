@@ -18,8 +18,9 @@ This project builds on the synthetically generated dataset and model architectur
 ## Setup
 ### Prerequisites
 
-- Python 3 (not compatible with python 2)
+- Python 3.5 (not compatible with python 2)
 - pip
+- Tensorflow-gpu with Anaconda 
 
 ### Install dependencies
 
